@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-222-trellis-api-implement-canonical-serialization",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-222-trellis-api-implement-canonical-serialization": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-222-trellis-api-implement-canonical-serialization",
+    "origin"
+  ]
+}
